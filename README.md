@@ -2,7 +2,7 @@
 
 This repository contains scripts and data used in the study:
 
-"Uneven diversification in Cupressaceae arises from ecological opportunity, trait syndromes, and episodic molecular change"
+macroevolution_for_Cupressaceae
 
 ## Overview
 
